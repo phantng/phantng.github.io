@@ -1,7 +1,3 @@
-# This is a header
+## Front page 
 
-## This is a subheader
-
-### This is a sub-subheader
-
-Content 1
+[page2](page2.md)
